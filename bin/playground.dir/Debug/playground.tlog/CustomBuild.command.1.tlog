@@ -1,0 +1,10 @@
+^D:\USERS\AXELBAER\DOCUMENTS\STUDIUM\SEMESTER5\COMPUTER GRAPHICS\OPENGL\MYOPENGLCGPROJECT\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Users/Axelbaer/Documents/Studium/Semester5/Computer Graphics/OpenGL/MyOpenGLCGProject/src" "-BD:/Users/Axelbaer/Documents/Studium/Semester5/Computer Graphics/OpenGL/MyOpenGLCGProject/bin" --check-stamp-file "D:/Users/Axelbaer/Documents/Studium/Semester5/Computer Graphics/OpenGL/MyOpenGLCGProject/bin/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

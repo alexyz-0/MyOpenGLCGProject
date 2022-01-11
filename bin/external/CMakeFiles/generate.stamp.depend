@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CheckTypeSize.cmake
+D:/Users/Axelbaer/Documents/Studium/Semester5/Computer Graphics/OpenGL/MyOpenGLCGProject/src/external/CMakeLists.txt

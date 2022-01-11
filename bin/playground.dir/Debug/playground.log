@@ -1,0 +1,40 @@
+﻿  Building Custom Rule D:/Users/Axelbaer/Documents/Studium/Semester5/Computer Graphics/OpenGL/MyOpenGLCGProject/src/CMakeLists.txt
+  playground.cpp
+  shader.cpp
+  controls.cpp
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\common\controls.cpp(70,57): warning C4305: "=": Verkürzung von "double" in "float"
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\common\controls.cpp(71,57): warning C4305: "=": Verkürzung von "double" in "float"
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(44,16): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(151,18): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(346,18): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(357,9): warning C4244: "Initialisierung": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(358,9): warning C4244: "Initialisierung": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(359,9): warning C4244: "Initialisierung": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(378,10): warning C4244: "Initialisierung": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(379,10): warning C4244: "Initialisierung": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\src\playground\playground.cpp(380,10): warning C4244: "Initialisierung": Konvertierung von "T" in "int", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+  playground.vcxproj -> D:\Users\Axelbaer\Documents\Studium\Semester5\Computer Graphics\OpenGL\MyOpenGLCGProject\bin\Debug\playground.exe
